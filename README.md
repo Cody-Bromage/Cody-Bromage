@@ -31,10 +31,8 @@ My interests: As expected im hugely into computers and how they work, however ou
     <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">HTML</span>
     <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">MarkDown</span>
     <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">CSS</span>
-    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">JavaScript</span>
-    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">Git</span>
     <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">SQL</span>
-     <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">Unity</span>
+    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">Unity</span>
     
 
 </div>
