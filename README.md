@@ -37,9 +37,9 @@ My interests: As expected im hugely into computers and how they work, however ou
 
 ## <span style="color: #f1c40f;">Projects</span>
 
-### <span style="color: #2575fc;">Project 1: Portfolio Website</span>
-A personal portfolio website to showcase my work and skills.  
-👉 [View on GitHub](#)
+### <span style="color: #2575fc;">Project 1: Github Portfolio </span>
+I have been working on this Portfolio for a little while now!, as you can see it's still a bit bare bones but
+its coming along quite well!, ive been tasked with doing this for an assignment in my first year of studying at USW
 
 ### <span style="color: #6a11cb;">Project 2: To-Do App</span>
 A simple and functional to-do list application built with React.  
