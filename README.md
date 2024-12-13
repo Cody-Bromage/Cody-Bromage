@@ -17,7 +17,7 @@ Hello! I'm Cody, I'm a Student at USW learning Computer science, im an avid prog
 
 Hobbies: As said above im avid programmer and a huge gamer. I enjoy spending the majority of my free time either playing games or programming, in some cases both!
 
-My interests: As expected im hugely into computers and how they work, however outside of computers, I find history very interesting and love to learn about it!
+My interests: As expected im hugely into computers and how they work, however outside of computers, While computers and technology are my primary interests, I have a deep fascination with history as well. I enjoy learning about different historical periods, cultures, and events. From ancient civilizations to modern history,
 
 ---
 
