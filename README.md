@@ -52,7 +52,7 @@ mathematical programming for things like, telling distance between to citys.
 programming basic arrays!
 creating basic programs for things like checking time, marking grades and much more
 ### <span style="color: #6a11cb;">Old projects!</span>
-Ive done a few older projects including things like Game creation within the unity engine, and some more physical things like setting up a alarm system with a raspberry PI.
+Ive done a few older projects including things like Game creation within the unity engine, and some more physical things like setting up a alarm system with a raspberry PI!
 ---
 <div align="center" style="background: #2575fc; color: white; padding: 10px; border-radius: 10px;">
     <p>&copy; Cody Bromage 2024 </p>
