@@ -27,8 +27,8 @@ My interests: As expected im hugely into computers and how they work, however ou
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">C++</span>
     <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">Python</span>
-    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">Html</span>
-    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">Markdown</span>
+    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">HTML</span>
+    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">MarkDown</span>
     
    
 </div>
