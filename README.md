@@ -13,11 +13,12 @@
 
 ## <span style="color: #6a11cb;">About Me</span>
 
-Hello! I'm Cody, I'm a Student at USW learning Computer science, im an avid programmer and gamer...
+Hello! I'm Cody, a Computer Science student at the University of South Wales (USW).
+I’m an avid programmer and gamer, and I’m always looking for new ways to challenge myself in both fields. Whether it’s developing software, solving programming puzzles, or diving deep into the latest video games, I spend the majority of my free time either coding or playing games.
 
 Hobbies: As said above im avid programmer and a huge gamer. I enjoy spending the majority of my free time either playing games or programming, in some cases both!
 
-My interests: As expected im hugely into computers and how they work, however outside of computers, While computers and technology are my primary interests, I have a deep fascination with history as well. I enjoy learning about different historical periods, cultures, and events. From ancient civilizations to modern history,
+My interests: As expected im hugely into computers and how they work, however outside of computers, While computers and technology are my primary interests, I have a deep fascination with history as well. I enjoy learning about different historical periods, cultures, and events. From ancient civilizations to modern history.
 
 ---
 
