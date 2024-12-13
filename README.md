@@ -22,15 +22,18 @@ My interests: As expected im hugely into computers and how they work, however ou
 
 ---
 
-## <span style="color: #2575fc;">Skills</span>
+## <span style="color: #2575fc;">My Skills</span>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">HTML</span>
-    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">CSS</span>
-    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">JavaScript</span>
-    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">React</span>
-    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">Node.js</span>
-    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">Git</span>
+    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">C++</span>
+    
+    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">Python</span>
+    
+    <span style="background-color: #6a11cb; color: white; padding: 10px 20px; border-radius: 20px;">Html</span>
+    
+    <span style="background-color: #2575fc; color: white; padding: 10px 20px; border-radius: 20px;">Markdown</span>
+    
+   
 </div>
 
 ---
