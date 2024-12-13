@@ -12,21 +12,22 @@
         }
 
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
-            background: #f4f4f9;
-            color: #333;
+            background: #eaf2f8;
+            color: #2c3e50;
         }
 
         header {
-            background: #333;
+            background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
             color: #fff;
-            padding: 1rem 0;
+            padding: 2rem 0;
             text-align: center;
         }
 
         header h1 {
-            font-size: 2.5rem;
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
         }
 
         nav {
@@ -38,68 +39,80 @@
             text-decoration: none;
             margin: 0 1rem;
             font-weight: bold;
+            font-size: 1.2rem;
         }
 
         .container {
-            max-width: 1100px;
+            max-width: 1200px;
             margin: 2rem auto;
             padding: 0 2rem;
         }
 
         section {
             margin-bottom: 2rem;
-            padding: 1.5rem;
+            padding: 2rem;
             background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
         section h2 {
             margin-bottom: 1rem;
-            color: #333;
-            border-bottom: 2px solid #333;
+            color: #2575fc;
+            font-size: 1.8rem;
+            border-bottom: 3px solid #6a11cb;
             display: inline-block;
         }
 
         .skills {
-            display: flex;
-            flex-wrap: wrap;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
             gap: 1rem;
+            text-align: center;
         }
 
         .skills span {
-            background: #333;
+            background: #2575fc;
             color: #fff;
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            font-size: 0.9rem;
+            padding: 0.7rem;
+            border-radius: 30px;
+            font-size: 1rem;
+            font-weight: bold;
         }
 
         .projects .project {
-            margin-bottom: 1rem;
+            margin-bottom: 1.5rem;
         }
 
         .projects .project a {
             text-decoration: none;
-            color: #0066cc;
+            color: #6a11cb;
+            font-weight: bold;
+        }
+
+        .projects .project a:hover {
+            text-decoration: underline;
         }
 
         footer {
             text-align: center;
-            padding: 1rem 0;
-            background: #333;
+            padding: 1.5rem 0;
+            background: #6a11cb;
             color: #fff;
         }
 
         footer a {
-            color: #0066cc;
+            color: #f1c40f;
             text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
         }
 
         @media (max-width: 768px) {
             .skills {
-                flex-direction: column;
-                align-items: flex-start;
+                grid-template-columns: 1fr;
             }
         }
     </style>
