@@ -42,14 +42,6 @@ A simple and functional to-do list application built with React.
 👉 [View on GitHub](#)
 
 ---
-
-## <span style="color: #6a11cb;">Contact</span>
-
-📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
 <div align="center" style="background: #2575fc; color: white; padding: 10px; border-radius: 10px;">
     <p>&copy; 2024 My GitHub Portfolio</p>
     <a href="#top" style="color: #f1c40f; text-decoration: none;">Back to Top</a>
