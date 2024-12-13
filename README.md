@@ -1,7 +1,7 @@
 # <div style="text-align: center; color: #2575fc;">My GitHub Portfolio</div>
 
 <div align="center" style="background: linear-gradient(90deg, #6a11cb, #2575fc); padding: 20px; color: white; border-radius: 10px;">
-    <h1>Welcome to My Portfolio</h1>
+    <h1>Welcome to My Portfolio!</h1>
     <nav>
         <a href="#about" style="color: #f1c40f; margin: 0 15px; text-decoration: none; font-weight: bold;">About</a> |
         <a href="#skills" style="color: #f1c40f; margin: 0 15px; text-decoration: none; font-weight: bold;">Skills</a> |
@@ -14,7 +14,11 @@
 
 ## <span style="color: #6a11cb;">About Me</span>
 
-Hello! I'm a **passionate developer** with experience in web development, always eager to learn and contribute to exciting projects. Welcome to my portfolio!
+Hello! I'm Cody, I'm a Student at USW learning Computer science, im an avid programmer and gamer...
+
+Hobbies: As said above im avid programmer and a huge gamer. I enjoy spending the majority of my free time either playing games or programming, in some cases both!
+
+My interests: As expected im hugely into computers and how they work, however outside of computers, I find history very interesting and love to learn about it!
 
 ---
 
@@ -43,6 +47,6 @@ A simple and functional to-do list application built with React.
 
 ---
 <div align="center" style="background: #2575fc; color: white; padding: 10px; border-radius: 10px;">
-    <p>&copy; 2024 My GitHub Portfolio</p>
+    <p>&copy; Cody Bromage 2024 </p>
     <a href="#top" style="color: #f1c40f; text-decoration: none;">Back to Top</a>
 </div>
