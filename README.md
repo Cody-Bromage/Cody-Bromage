@@ -40,10 +40,12 @@ My interests: As expected im hugely into computers and how they work, however ou
 I have been working on this Portfolio for a little while now!, as you can see it's still a bit bare bones but
 its coming along quite well!, ive been tasked with doing this for an assignment in my first year of studying at USW
 
-### <span style="color: #6a11cb;">Project 2: To-Do App</span>
-A simple and functional to-do list application built with React.  
-👉 [View on GitHub](#)
-
+### <span style="color: #6a11cb;">Project 2: basic applications to show skill in programming</span>
+this is another project i have been tasked with doing, threw assignments in university.
+these tasks include: 
+mathematical programming for things like, telling distance between to citys.
+programming basic arrays!
+creating basic programs for things like checking time, marking grades and much more
 ---
 <div align="center" style="background: #2575fc; color: white; padding: 10px; border-radius: 10px;">
     <p>&copy; Cody Bromage 2024 </p>
