@@ -6,7 +6,6 @@
         <a href="#about" style="color: #f1c40f; margin: 0 15px; text-decoration: none; font-weight: bold;">About</a> |
         <a href="#skills" style="color: #f1c40f; margin: 0 15px; text-decoration: none; font-weight: bold;">Skills</a> |
         <a href="#projects" style="color: #f1c40f; margin: 0 15px; text-decoration: none; font-weight: bold;">Projects</a> |
-        <a href="#contact" style="color: #f1c40f; margin: 0 15px; text-decoration: none; font-weight: bold;">Contact</a>
     </nav>
 </div>
 
